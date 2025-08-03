@@ -16,8 +16,8 @@
 
 1. **Clone Repository**
     ```sh
-    git clone https://github.com/dinarsanjaya/spotify-downloader-cli.git
-    cd spotify-downloader-cli
+    git clone https://github.com/dinarsanjaya/Spotify-Downloader
+    cd Spotify-Downloader
     ```
 2. **Install Dependencies**
     ```sh
@@ -85,8 +85,8 @@ python spotify.py -f flac -o MusikSaya
 
 1. **Clone Repository**
     ```sh
-    git clone https://github.com/dinarsanjaya/spotify-downloader-cli.git
-    cd spotify-downloader-cli
+    git clone https://github.com/dinarsanjaya/Spotify-Downloader
+    cd Spotify-Downloader
     ```
 2. **Install Dependencies**
     ```sh
