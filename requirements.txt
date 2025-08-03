@@ -1,0 +1,10 @@
+spotipy
+yt-dlp
+mutagen
+python-dotenv
+requests
+tqdm
+colorama
+beautifulsoup4
+pillow
+pydub 
